@@ -24,10 +24,10 @@ facebook_username: StartBootstrap
 #linkedin_url: https://
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: 812 N Columbia Blvd. Unit C15-588515
+address_city: Portland
+address_state: OR
+address_zip: 97217
 
 # Build settings
 markdown: kramdown
