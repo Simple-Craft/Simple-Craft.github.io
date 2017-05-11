@@ -14,9 +14,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Simple-Craft.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username: SCNServers
+github_username:  Simple-Craft
+facebook_username: SimpleCraftNetwork
 #instagram_username: beyonce
 #stackoverflow_url: https://
 #googleplus_username: BobMarley
